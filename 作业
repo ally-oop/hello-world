@@ -1,6 +1,6 @@
 import java.util.*;
 public class 求迷宫最短通道 {
-	static int[][] maze;//迷宫矩阵（maze n.迷宫 vt.迷失，使困惑）
+	static int[][] maze;//迷宫矩阵
 	static int n;//矩阵大小
 	static int min;//最短步长
 	public static void main(String[] args) {
